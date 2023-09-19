@@ -4,7 +4,7 @@ export default function ContactButtons() {
   return (
     <div className="header__contact--buttons">
     <a className="btn btn-contact" mailto="dallasviars@gmail.com">
-      <img height="25px;" width="25px" src="./src/assets//images/mail.png" alt="Email icon" />
+      <img height="25px;" width="25px" src="/images/mail.png" alt="Email icon" />
       Email
     </a>
     <a className="btn btn-contact" href="www.linkedin.com/in/dallasviars">
